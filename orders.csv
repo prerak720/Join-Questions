@@ -1,0 +1,7 @@
+OrderID,CustomerID,OrderDate,Amount,Status
+101,C001,2024-01-10,5000,Delivered
+102,C002,2024-01-11,7000,Cancelled
+103,C001,2024-01-12,2500,Delivered
+104,C003,2024-01-15,9000,Pending
+105,C002,2024-01-18,12000,Delivered
+106,C004,2024-01-20,3000,Delivered
